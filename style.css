@@ -1,0 +1,63 @@
+#tavi {
+	width: 350px;
+    text-align: center;
+	border-top: solid;
+	border-bottom: solid;
+	border-right: solid;
+	border-left: solid;
+	background-color: red;
+	position: relative;
+	left: 500px;
+    border-radius: 60px;
+}
+#title
+{
+	height: 70px;
+	width: 450px;
+	margin-top: 15px;
+	background-image: url("title.jpg");
+	font-family: sylfaen;
+	font-size: 16px;
+
+    
+}
+#date{
+    margin-top: 10px;
+    width: 120px;
+    height: 30px;
+    text-align: center;
+
+}
+#description{
+	font-size: 20px;
+	border-radius: 10px;
+	margin-top: 15px;
+    width: 600px;
+	border-top: solid;
+	border-bottom: solid;
+	border-right: solid;
+	border-left: solid;
+    background-color: #03fdcb;
+}
+#readmore {
+	border-top: solid;
+	border-bottom: solid;
+	border-right: solid;
+	border-left: solid;
+	margin-top: 15px;
+    text-align: center;
+	height: 20px;
+  	width: 90px;
+    background-color: #03fdcb;
+}
+#full {
+
+margin-top: 15px;
+    
+	border-top: solid;
+	border-bottom: solid;
+	border-right: solid;
+	border-left: solid;	
+    background-color: yellow;
+	
+}
